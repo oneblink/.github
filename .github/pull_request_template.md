@@ -1,6 +1,6 @@
 ## Requester Checklist
 
-Please only check the items that you have done. Do not check items that are not applicable to your PR.
+Please only check the items that you have actioned. Do not check items that are not applicable to your PR.
 
 ### Implementation
 
